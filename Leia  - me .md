@@ -8,8 +8,6 @@ sejam bem vindo ao meu Repositório
 - 🌱 Aprendendo: python + cybersecurity 
 - 
 
-![octocat-1673379540437](https://user-images.githubusercontent.com/122295876/211645922-29a2fc31-57bc-49dc-94ae-bec0783531e2.png)
-
 
 - 👯 Estou procurando colaborar em alguma empresa como Dev Junior
 
@@ -19,6 +17,7 @@ mas assim que eu souber eu estarei editando este Read-me
 - 💬 Pergunte-me sobre Discord.py / Discord.Js
 
 
+![regular-show-technology](https://user-images.githubusercontent.com/122295876/211646580-4eac0ecd-c1c4-4994-a067-4b76f5b5c7ea.gif)
 
 
 
@@ -31,3 +30,4 @@ mas assim que eu souber eu estarei editando este Read-me
 
 me siga no instagram @lildrysmc 
 
+![octocat-1673379540437](https://user-images.githubusercontent.com/122295876/211645922-29a2fc31-57bc-49dc-94ae-bec0783531e2.png)
