@@ -2,7 +2,6 @@
  
 sejam bem vindo ao meu Repositório
 
-Aqui estão algumas idéias para você começar:
 
 - 🔭 Atualmente estou trabalhando em desenvolvimento autonomo de bots para o Discord e criações de servidores do 0
 
